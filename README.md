@@ -12,7 +12,7 @@
     e. UploadDate
 5.	Display success message on web page and show document list using angular data table with filters and sorting option
 6.	Fork this repository and we will review your code from the fork.
-7.  Mandatory to provide a code and workable pplication walk through 
+7.  Mandatory to provide a code and workable application walk through 
 
 ## Tech Stack:  
     Springboot  
