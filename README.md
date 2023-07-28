@@ -5,16 +5,16 @@
 2.	Demonstrate user login and authentication
 3.	Upon login present member with ability to upload a document. User must be login to access this page
 4.	Create a REST service to receive the document and store the document in a database with the below structure:  
-DocumentID  
-DocumentName  
-Document  
-UploadUser  
-UploadDate
+    DocumentID  
+    DocumentName  
+    Document  
+    UploadUser  
+    UploadDate
 5.	Display success message on web page and show document list using angular data table with filters and sorting option
-6.	Fork this repository and we will review your code from the fork
-7.	Mandatory to provide a code and workable pplication walk through 
+6.	Fork this repository and we will review your code from the fork.
+7.  Mandatory to provide a code and workable pplication walk through 
 
 ## Tech Stack:  
-Springboot  
-Angular  
-MongoDB
+    Springboot  
+    Angular  
+    MongoDB
